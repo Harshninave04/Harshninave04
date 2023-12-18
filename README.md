@@ -1,5 +1,5 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Seeking%20Opportunities!%20🌐🚀&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
-<h1 align="center">Hi👋 there, fellow <developers/>! I'm Harsh Ninave</h1>
+<h1 align="center">Hi👋 there, fellow developers! I'm Harsh Ninave</h1>
 <h3 align="center">I'm currently working as a front-end developer and I aspire to transition into a full-stack developer role.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353467-897cd757-ea1f-492d-aaf9-6d1674177e08.gif">
 
