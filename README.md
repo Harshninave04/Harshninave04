@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **harshninave58@gmail.com**
 
-- ⚡ Fun fact **I once learned a new programming language just for the fun of it and ended up building a quirky personal project.**
+- ⚡ Fun fact: *I once learned a new programming language just for the fun of it and ended up building a quirky personal project.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
