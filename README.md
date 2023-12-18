@@ -1,16 +1,20 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Seeking%20Opportunities!%20🌐🚀&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
-<h1 align="center">Hi 👋, I'm Harsh Ninave</h1>
+<h1 align="center">Hi👋 there, fellow <developers/>! I'm Harsh Ninave</h1>
 <h3 align="center">I'm currently working as a front-end developer and I aspire to transition into a full-stack developer role.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353467-897cd757-ea1f-492d-aaf9-6d1674177e08.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshninave04&label=Profile%20views&color=0e75b6&style=flat" alt="harshninave04" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently expanding my knowledge in **Linux/DevOps** and have an experience working with frontend projects.
+
+- 💬 Ask me about Java, Open source, Frontend development, Linux (on the way)...
+
+- 🥅 2024 Goals: Work on Personal Projects 
 
 - 📫 How to reach me **harshninave58@gmail.com**
 
-- ⚡ Fun fact **I'll make you laugh**
+- ⚡ Fun fact **I once learned a new programming language just for the fun of it and ended up building a quirky personal project.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
