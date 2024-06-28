@@ -6,13 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshninave04&label=Profile%20views&color=0e75b6&style=flat" alt="harshninave04" /> </p>
 
-- 🌱 I’m currently expanding my knowledge in **Linux/DevOps** and have an experience working with frontend projects.
+- 🌱 I’m currently expanding my knowledge in **Linux/DevOps** and have personal experience working with full stack projects.
 
-- 💬 Ask me about Java, Open source, Frontend development, Linux (on the way)...
+- 💬 Ask me about Java, MERN, Linux, Git.
+
+- 🗨️ I'm happy to chat about: Building full-stack applications with MERN or my journey into the exciting world of DevOps!
 
 - 🥅 2024 Goals: Work on Personal Projects 
 
-- 📫 How to reach me **harshninave58@gmail.com**
+- 📫 How to reach me **harshninave58@gmail.com** or **https://www.linkedin.com/in/harsh-ninave-03b665237/**
 
 - ⚡ Fun fact: *I once learned a new programming language just for the fun of it and ended up building a quirky personal project.*
 
