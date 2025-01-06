@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353467-897cd757-ea1f-492d-aaf9-6d1674177e08.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshninave04&label=Profile%20views&color=0e75b6&style=flat" alt="harshninave04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshninave04&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" /> </p>
 
 - 🌱 I’m currently expanding my knowledge in **Linux/DevOps** and have personal experience working with full stack projects.
 
@@ -60,7 +60,6 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshninave04&" alt="harshninave04" /></p> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshninave04&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" style="width: 60%; height: auto;" />
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qrzw34jtpnhygpz7f64ovj5mde)
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshninave04&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20in%20All%20Repo" style="width: 100%; max-width: 700px; height: auto;" alt="Activity Graph" />
