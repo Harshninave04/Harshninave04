@@ -60,6 +60,7 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshninave04&" alt="harshninave04" /></p> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshninave04&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" style="width: 60%; height: auto;" />
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qrzw34jtpnhygpz7f64ovj5mde)
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshninave04&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20in%20All%20Repo" style="width: 100%; max-width: 700px; height: auto;" alt="Activity Graph" />
