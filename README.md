@@ -10,14 +10,16 @@
 
 - 🌱 I’m currently expanding my knowledge in **Linux/DevOps** and have personal experience working with full stack projects.
 
-- 💬 Ask me about Java, MERN, Linux, Git.
+- 💬 Ask me about Java, MERN, Linux, Git, and Docker.
 
 - 🗨️ I'm happy to chat about: Building full-stack applications with MERN or my journey into the exciting world of DevOps!
 
-- 🥅 2024 Goals: Work on Personal Projects 
+- 🥅 2025 Goals: Work on Personal Projects 
 
 - 📫 How to reach me **harshninave58@gmail.com** or
-- **[Portfolio](https://harshninave.netlify.app/)**
+ **[Portfolio](https://harshninave.netlify.app/)**
+
+- [Check our this one](https://theycallmeharsh.vercel.app/)
 
 - ⚡ Fun fact: *I once learned a new programming language just for the fun of it and ended up building a quirky personal project.*
 
@@ -61,7 +63,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshninave04&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" style="width: 55%; height: 100%;" />
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31qrzw34jtpnhygpz7f64ovj5mde" alt="GitHub Streak Stats" style="width: 42%; height: auto;" />
+<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qrzw34jtpnhygpz7f64ovj5mde" alt="GitHub Streak Stats" style="width: 42%; height: auto;" /> -->
 </div>
 
 <p align="center">
