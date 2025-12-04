@@ -8,6 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshninave04&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" /> </p>
 
+- 🧑‍💻 I'm working as a full stack developer at Denttracks.
+
 - 🌱 I’m currently expanding my knowledge in **Linux/DevOps** and have personal experience working with full stack projects.
 
 - 💬 Ask me about Java, MERN, Linux, Git, and Docker.
@@ -16,10 +18,10 @@
 
 - 🥅 2025 Goals: Work on Personal Projects 
 
-- 📫 How to reach me **harshninave58@gmail.com** or
+- 📫 How to reach me **harshninave32@gmail.com** or
  **[Portfolio](https://harshninave.netlify.app/)**
 
-- [Check our this one](https://theycallmeharsh.vercel.app/)
+- [Check out this one](https://theycallmeharsh.vercel.app/)
 
 - ⚡ Fun fact: *I once learned a new programming language just for the fun of it and ended up building a quirky personal project.*
 
