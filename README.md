@@ -10,13 +10,15 @@
 
 - 🧑‍💻 I'm working as a full stack developer at Denttracks.
 
+- 🧑‍💻 I'm also working as a full stack developer at NP tech solutions.
+
 - 🌱 I’m currently expanding my knowledge in **Linux/DevOps** and have personal experience working with full stack projects.
 
 - 💬 Ask me about Java, MERN, Linux, Git, and Docker.
 
 - 🗨️ I'm happy to chat about: Building full-stack applications with MERN or my journey into the exciting world of DevOps!
 
-- 🥅 2025 Goals: Work on Personal Projects 
+- 🥅 2026 Goals: Work on Personal Projects 
 
 - 📫 How to reach me **harshninave32@gmail.com** or
  **[Portfolio](https://harshninave.netlify.app/)**
