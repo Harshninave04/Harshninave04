@@ -10,20 +10,19 @@
 
 - 🧑‍💻 I'm working as a full stack developer at Denttracks.
 
-- 🧑‍💻 I'm also working as a full stack developer at NP tech solutions.
-
 - 🌱 I’m currently expanding my knowledge in **Linux/DevOps** and have personal experience working with full stack projects.
+-  Additionally, I’m exploring **Flutter and Dart** to broaden my technical capabilities and stay versatile in modern development ecosystems.
 
 - 💬 Ask me about Java, MERN, Linux, Git, and Docker.
 
 - 🗨️ I'm happy to chat about: Building full-stack applications with MERN or my journey into the exciting world of DevOps!
 
-- 🥅 2026 Goals: Work on Personal Projects 
+- 🥅 2026 Goals: Work on Personal Projects! 
 
 - 📫 How to reach me **harshninave32@gmail.com** or
  **[Portfolio](https://harshninave.netlify.app/)**
 
-- [Check out this one](https://theycallmeharsh.vercel.app/)
+- [Another Portfolio](https://theycallmeharsh.vercel.app/)
 
 - ⚡ Fun fact: *I once learned a new programming language just for the fun of it and ended up building a quirky personal project.*
 
@@ -32,7 +31,7 @@
 <a href="https://twitter.com/harshninave2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshninave2004" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-ninave-03b665237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-ninave-03b665237" height="30" width="40" /></a>
 <a href="https://instagram.com/harsh__ninave_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh__ninave_" height="30" width="40" /></a>
-<a href="https://hashnode.com/@harshninave04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@harshninave04" height="30" width="40"/></a>
+<!-- <a href="https://hashnode.com/@harshninave04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@harshninave04" height="30" width="40"/></a> -->
 <a href="https://www.leetcode.com/harshninave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshninave" height="30" width="40" /></a>
 </p>
 
