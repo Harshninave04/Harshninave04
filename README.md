@@ -20,7 +20,7 @@
 - 🥅 2026 Goals: Work on Personal Projects! 
 
 - 📫 How to reach me **harshninave32@gmail.com** or
- **[Portfolio](https://harshninave.netlify.app/)**
+ **[Portfolio](https://harshninave.dpdns.org/)**
 
 - [Another Portfolio](https://theycallmeharsh.vercel.app/)
 
